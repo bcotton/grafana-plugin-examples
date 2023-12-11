@@ -70,5 +70,5 @@
     "react-use": "^17.4.0",
     "tslib": "2.5.0"
   },
-  "packageManager": "^yarn@1.22.19"
+  "packageManager": "yarn@1.22.21"
 }
